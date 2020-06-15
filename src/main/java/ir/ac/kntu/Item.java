@@ -15,7 +15,7 @@ public enum Item {
 
     @Override
     public String toString() {
-        return "Name : "+name +
+        return "-Name : "+name +
                 ", Durability : " + durability +
                 " , level : " + level ;
     }
